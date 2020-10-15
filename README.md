@@ -1,6 +1,6 @@
 # Gabarito-Blockchain-Smart-Contract
 
-Trabalho final da disciplina de topicos especiais 2 - Blockchain do curso de Engenharia da Computação - UFSC
+Trabalho final da disciplina de Tópicos Especiais 2 - Blockchain do curso de Engenharia da Computação - UFSC
 
 #Objetivo
 
